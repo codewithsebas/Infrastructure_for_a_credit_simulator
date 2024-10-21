@@ -1,4 +1,4 @@
-# Propuesta Técnica para el Desarrollo del Simulador de Crédito - Roda
+# Propuesta Técnica de Infraestructura para el Desarrollo del Simulador de Crédito - Roda
 
 Esta propuesta técnica describe la infraestructura e arquitectura, tecnologías y procesos involucrados en el desarrollo del Simulador de Crédito de Roda. El sistema estará diseñado para vendedores de la compañía, integrando funciones para microcréditos, motocicletas y eBikes, con conectividad a Airtable y AWS.
 
