@@ -194,8 +194,14 @@ Para asegurar un proceso eficiente de despliegue y monitoreo, se implementarán 
 - **Sentry:** Para la gestión de errores en tiempo real.
 <br><br>
 
+# Diagrama de Infraestructura
+
+En esta imagen se deja clara la infraestructura para el desarrollo del Simulador de Crédito.
+
+<img src="https://res.cloudinary.com/dovavvnjx/image/upload/v1729531323/INFRAESTRUCTURA_SIMULADOR_DE_CREDITO_mxccbw.png" alt="INFRAESTRUCTURA SIMULADOR DE CREDITO"/>
+
 # Conclusión
 
-El Simulador de Crédito de Roda es una herramienta diseñada para facilitar el proceso de créditos para los vendedores. Utilizando tecnologías modernas como React y Node.js, ofreceremos una aplicación más eficiente y fácil de usar.
+El Simulador de Crédito de Roda es una herramienta diseñada con el objetivo de hacer la vida más fácil a nuestros vendedores. Utilizando tecnologías modernas como React y Node.js, hemos creado una aplicación que es rápida, eficiente y sencilla de usar.
 
-Con la integración de Airtable y AWS, los vendedores podrán concentrarse en lo esencial: ayudar a los clientes.
+Con la integración de Airtable y AWS, los vendedores podrán dedicar más tiempo a lo que realmente importa: ayudar a sus clientes y ofrecerles la mejor experiencia posible. Esta herramienta no solo simplificará el proceso de créditos, sino que también fortalecerá las relaciones entre nuestros vendedores y sus clientes.
